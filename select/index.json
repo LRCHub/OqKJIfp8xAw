@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ハナツ",
+  "base_artist": "スキマスイッチ",
+  "createdAt": "2026-03-09T07:48:09.430366Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ハナツ",
+      "artist": "スキマスイッチ",
+      "has_synced": false,
+      "path": "select/01_ハナツ_スキマスイッチ.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ハナツ",
+      "artist": "スキマスイッチ",
+      "has_synced": false,
+      "path": "select/pl_01_ハナツ_スキマスイッチ.txt"
+    }
+  ]
+}
